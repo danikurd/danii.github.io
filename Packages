@@ -1,0 +1,15 @@
+Package: com.ic0nic0de.taptaplock
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: Dani	
+Depends:  mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common (>= 1.14)	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/taptaplock_1.1.deb	
+Size: 1670732	
+MD5sum: 2ea7ddd693e6db541642495c327dd48c	
+SHA1: bc643a00ed0ab9d8e1940936d2166affa275ae2b	
+SHA256: 32d134d8a46b8e52537068c603189249b2edd748ea41ba1924b772144c2de701	
+Section: Tweaks	Section: Tweaks
+Depiction: https://x7mii15.github.io/test
+Name: appstore++
+
